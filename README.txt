@@ -4,3 +4,4 @@
   - Juan Moreira
   - Hans Urpay
   - Ana Gonzales
+  - Maria Paula Sánchez
